@@ -1,5 +1,8 @@
-# RPS-Chesss
+# RPS-Chess
 Web-based application that incorporated Rock Paper Scissors into Chess.
+
+![image](https://github.com/user-attachments/assets/d152b95b-cbce-49e5-99c2-5eb4c3d8da79)
+
 
 #### **Key Features**
 The application includes the features listed down below.
